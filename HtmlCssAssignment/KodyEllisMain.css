@@ -1,0 +1,47 @@
+body {
+  font-family: Helvetica, Geneva, Arial,
+
+  SunSans-Regular, sans-serif 12pt;
+  background-color: #FF6347;
+  font-size: 105%;
+
+  }
+
+ 
+h1 {
+font-family: Helvetica, Geneva, Arial,
+
+ SunSans-Regular, sans-serif; 
+ color: green;
+ font-size: 200%;
+ weight = 0pt;
+
+
+}
+
+
+
+p {
+
+ font-family: Helvetica, Geneva, Arial,
+
+ SunSans-Regular, sans-serif;
+
+ color: black;
+ font-size: 105%;
+
+}
+
+
+table {
+
+ font-family: Helvetica, Geneva, Arial,
+
+ SunSans-Regular, sans-serif; 
+
+ color: blue;
+ background-color: pink;
+ font-size: 105%;
+
+
+}
